@@ -1,6 +1,7 @@
 # Weekly-Flutter-Resources
 
 ## Week 1 : Build Your First Flutter Application
+### Documentation and References
 - [Week-1 Stub Project](https://github.com/DSC-Gunadarma/Weekly1-Flutter-Stub-Project)
 - [Asset Week-1](https://drive.google.com/file/d/1HMOeOxXDgCsjzqn578F-psOB42QAyTDl/view?usp=sharing)
 - [Widget Catalogue](https://flutter.dev/docs/development/ui/widgets)
@@ -17,3 +18,7 @@
 - [The Padding Class](https://api.flutter.dev/flutter/widgets/Padding-class.html)
 - [Google Font Package](https://pub.dev/packages/google_fonts)
 - [Week-1 Complete Project with Explanation](https://github.com/DSC-Gunadarma/Weekly1-Flutter-Complete-Project)
+
+### Recap
+- [Mobile Development Week 1 - Make your First Mobile Apps using Flutter - Session 1](https://youtu.be/WIuTgtcsiIE)
+- [Mobile Development Week 1 - Make your First Mobile Apps using Flutter - Session 2](https://youtu.be/jVwrc1pbD1o)
