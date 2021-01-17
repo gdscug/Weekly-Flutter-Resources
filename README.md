@@ -48,17 +48,17 @@
 
 ## Week 3 : Add Firebase to Your Flutter Apps Part 1
 ### Documentation and References
--[Week-3 Stub Project](https://github.com/DSC-Gunadarma/Weekly3-Flutter-Stub-Project/)
--[Console Firebase](https://console.firebase.google.com/)
--[How to Add Firebase to Flutter Apps Docs](https://firebase.google.com/docs/flutter/setup?hl=id)
--[What is Firebase? (Reading Material)](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0)
--[Firestore Reading Material](https://medium.com/eureka-engineering/firebase-cloud-firestore-overview-475eb789b044)
--[Cloud Firestore Package](https://pub.dev/packages/cloud_firestore)
--[Firebase Core Pakcage](https://pub.dev/packages/firebase_core)
--[Firebase Storage Package](https://pub.dev/packages/firebase_storage)
--[Reading List from Firestore(Reading Material **Open in incognito Window**)](https://medium.com/quick-code/reading-lists-from-firestore-using-streambuilder-in-flutter-eda590f461ed)
--[**BONUS READING MATERIAL**](https://medium.com/nusanet/flutter-firestore-crud-25c54c07308f)
--[Week-3 Complete Project](https://github.com/DSC-Gunadarma/Weekly3-Flutter-Complete-Project/)
+- [Week-3 Stub Project](https://github.com/DSC-Gunadarma/Weekly3-Flutter-Stub-Project/)
+- [Console Firebase](https://console.firebase.google.com/)
+- [How to Add Firebase to Flutter Apps Docs](https://firebase.google.com/docs/flutter/setup?hl=id)
+- [What is Firebase? (Reading Material)](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0)
+- [Firestore Reading Material](https://medium.com/eureka-engineering/firebase-cloud-firestore-overview-475eb789b044)
+- [Cloud Firestore Package](https://pub.dev/packages/cloud_firestore)
+- [Firebase Core Pakcage](https://pub.dev/packages/firebase_core)
+- [Firebase Storage Package](https://pub.dev/packages/firebase_storage)
+- [Reading List from Firestore(Reading Material **Open in incognito Window**)](https://medium.com/quick-code/reading-lists-from-firestore-using-streambuilder-in-flutter-eda590f461ed)
+- [**BONUS READING MATERIAL**](https://medium.com/nusanet/flutter-firestore-crud-25c54c07308f)
+- [Week-3 Complete Project](https://github.com/DSC-Gunadarma/Weekly3-Flutter-Complete-Project/)
 
 ### Recap
 TBA
