@@ -40,7 +40,7 @@
 
 
 ### Link Presentation File
-- [PPT Week-1](https://docs.google.com/presentation/d/1Q7R-rHf-JT4QM_nQvCPBz3F2sGXBC0hFo9Vuz058W5I/edit?usp=sharing)
+- [PPT Week-2](https://docs.google.com/presentation/d/1Q7R-rHf-JT4QM_nQvCPBz3F2sGXBC0hFo9Vuz058W5I/edit?usp=sharing)
 
 ### Recap
 - [Mobile Development Week 2 - Show Your Data with Custom Listview - Session 1](https://youtu.be/DjAmuKNuuHQ)
