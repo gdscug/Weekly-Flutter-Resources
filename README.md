@@ -36,4 +36,5 @@
 - [Week-2 Complete Project](https://github.com/DSC-Gunadarma/Weekly2-Flutter-Complete-Project)
 
 ### Recap
-**Coming Soon**
+- [Mobile Development Week 2 - Show Your Data with Custom Listview - Session 1](https://youtu.be/DjAmuKNuuHQ)
+- [Mobile Development Week 2 - Show Your Data with Custom Listview - Session 2](https://youtu.be/H6eTI_PjArU)
