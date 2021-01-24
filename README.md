@@ -1,3 +1,10 @@
+# Webinar Resources
+## First Presentation
+- [Flutter for the future](https://drive.google.com/file/d/16H9yvPWWRzd8ud0Vs3sMvZo4a4ZvHKpC/view?usp=sharing)
+
+## Second Presentation
+- [Maximizing UI Design with Flutter Widget](https://drive.google.com/file/d/1sjSSI3_i986Dx56TY1UNElg5RA8r_njd/view?usp=sharing)
+- [Angga's simple UI Design with Flutter](https://github.com/anggaku/flutter_app)
 # Weekly-Flutter-Resources
 
 ## Week 1 : Build Your First Flutter Application
