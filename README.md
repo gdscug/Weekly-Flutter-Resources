@@ -67,6 +67,26 @@
 - [**BONUS READING MATERIAL**](https://medium.com/nusanet/flutter-firestore-crud-25c54c07308f)
 - [Week-3 Complete Project](https://github.com/DSC-Gunadarma/Weekly3-Flutter-Complete-Project/)
 
+### Link Presentation File
+- [PPT Week-3](https://drive.google.com/file/d/1xcUFye5JdfPEZOTBXh1jG8KKlsC_F0em/view?usp=sharing)
+
 ### Recap
 - [Mobile Development Week 3 - Add Firebase to Your Flutter Apps Part 1 - Session 1](https://youtu.be/fC3A7cQk6HY)
 - [Mobile Development Week 3 - Add Firebase to Your Flutter Apps Part 1 - Session 2](https://youtu.be/rzih5hDPvrM)
+
+## Week 4: Add Firebase to Your Flutter Apps Part 2
+### Documentation and References
+- [Week-4 Stub Project](https://github.com/DSC-Gunadarma/Weekly4-Flutter-Stub-Project)
+- [Firebase Storage Package](https://pub.dev/packages/firebase_storage)
+- [Image Picker Package](https://pub.dev/packages/image_picker)
+- [Firebase Storage Reading Material](https://medium.com/codechai/uploading-image-to-firebase-storage-in-flutter-app-android-ios-31ddd66843fc)
+- [Firebase Storage Reading Material](https://www.c-sharpcorner.com/article/upload-image-file-to-firebase-storage-using-flutter/)
+- [Asynchronus Programming in Dart](https://dart.dev/codelabs/async-await)
+- [Dismissible Widget Documentation](https://flutter.dev/docs/cookbook/gestures/dismissible)
+- [Week-4 Complete Project](https://github.com/DSC-Gunadarma/Weekly4-Flutter-Complete-Project/)
+
+### Link Presentation File
+- [PPT Week-4](https://docs.google.com/presentation/d/1BbGExHqZ60L-fEWtNyPy9FPvUNDDPgIAD0EGmjqRiSA/edit?usp=sharing)
+
+### Recap 
+Comming Soon~
